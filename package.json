@@ -1,6 +1,6 @@
 {
   "name": "react-todo",
-  "homepage": "https://oleksandrorel.github.io/react-todo",
+  "homepage": "/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
