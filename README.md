@@ -1,2 +1,4 @@
 [Demo link](https://oleksandrorel.github.io/react-todo/)
-Created `React Stopwatch` App without RxJS library.
+
+Created `React Todo list`.
+Used libraries: react-router-dom, redux, classnames.
